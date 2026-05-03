@@ -1,6 +1,7 @@
 # Quantifying Market Risk
 
 This project analyzes financial market risk using Python and historical data from the S&P 500 (SPY ETF). The goal is to model volatility and quantify potential losses using commonly applied risk measures.
+This project was independently developed as part of my studies in actuarial science and financial engineering.
 
  Overview
 
