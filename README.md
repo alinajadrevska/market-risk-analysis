@@ -31,4 +31,5 @@ Key Insights
 Project Structure
 
 - `risk_model.py` – main Python script  
-- `report.pdf` – written explanation of the methodology and results  
+- `report.pdf` – written explanation of the methodology and results
+- `market_data.xlx` - excel file 
